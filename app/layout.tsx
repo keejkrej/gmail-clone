@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Mail — Inbox',
-  description: 'A polished Gmail-inspired inbox mockup built with shadcn/ui.',
+  title: 'Gmail',
+  description: 'A Gmail-inspired inbox built with shadcn/ui.',
   generator: 'v0.app',
   icons: {
     icon: [
